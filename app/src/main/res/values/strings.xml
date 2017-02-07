@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">YouClip</string>
+    <string name="title_activity_startup_screen">StartupScreen</string>
 </resources>
